@@ -1,7 +1,7 @@
 // set a "window start" variable
 // set a max value to -Infinity (to pass negative value test cases)
 // set a "soFar" variable for current sum
-// check if end-start is equal to k-1 (to check is there is a valid window)
+// check if end-start is equal to k-1 (to check if there is a valid window)
 // store average value in a variable
 // update "max"
 // move the window starting point
